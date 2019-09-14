@@ -1,7 +1,6 @@
 # Filename: read_musicxml_files_for_ml_dataset_py3.py.py
 # Function: study structure of musicxml files in music21 and create ML dataset
 #           
-#           
 # Comment: When using anaconda python use following installation steps to installa music21 library in anaconda python
 #          See: https://stackoverflow.com/questions/36164986/how-to-install-package-in-anaconda
 #               https://pypi.org/project/music21/
