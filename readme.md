@@ -11,3 +11,5 @@
 |-------------------------------------------|-----------------------------------------------------------------------------|
 | read_musicxml_files_for_ml_dataset_py3.py | Music21 python3 testscript to create a ML dataset                           |
 | *.musicxml                                | All sheetmusic input files in musicxml format in subdirectory .\finputfiles |
+| music21-5.7.0.tar.gz                      | @20190609 latest version music21 library. Install for anaconda see          |
+|                                           | text in comments of read_musicxml_files_for_ml_dataset_py3.py               |
