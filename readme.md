@@ -1,7 +1,7 @@
-# filenaam: readme.md
-## functie: Dit zijn python3 sources van music21 voorbeelden
+# File: readme.md
+## Function: python3 music21 sources for Machine Learning (ML)
 
-**Documentatie**
+**Documentation**
 1. music21: [https://web.mit.edu/music21/doc/usersGuide/index.html](https://web.mit.edu/music21/doc/usersGuide/index.html)
 2. markdown cheatsheet: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 
