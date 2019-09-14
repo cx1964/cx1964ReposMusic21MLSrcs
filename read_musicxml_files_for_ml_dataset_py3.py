@@ -4,6 +4,9 @@
 #           
 # Comment: Use Python 3.6.8 64 bit instead of anaconda python
 #          Have to solve how to use music21 with anaconda
+#          See: https://stackoverflow.com/questions/36164986/how-to-install-package-in-anaconda
+#               https://pypi.org/project/music21/
+#               @ 20190609 5.7.0 latest version
 
 import music21 as m
 
