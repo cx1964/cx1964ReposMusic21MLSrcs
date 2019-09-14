@@ -2,12 +2,17 @@
 # Function: study structure of musicxml files in music21 and create ML dataset
 #           
 #           
-# Comment: Use Python 3.6.8 64 bit instead of anaconda python
-#          Have to solve how to use music21 with anaconda
+# Comment: When using anaconda python use following installation steps to installa music21 library in anaconda python
 #          See: https://stackoverflow.com/questions/36164986/how-to-install-package-in-anaconda
 #               https://pypi.org/project/music21/
 #               @ 20190609 5.7.0 latest version
-
+#               Installation steps music21 in anaconda:
+#               1. download latest tar.gz file for music21 libaray
+#               2. unzip tar.gz
+#               3. cd to unzip directory
+#               4. in uzip directory execute command:
+#                  python setup.py install
+#               
 import music21 as m
 
 scorePath = "~/Documents/sources/python/python3/python3_music21/ml_music21_scores/input_files"
